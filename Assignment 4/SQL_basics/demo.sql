@@ -1,3 +1,4 @@
+--practice session codes
 use demo;
 create table student(
 	student_id int auto_increment,
